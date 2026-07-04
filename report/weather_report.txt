@@ -1,0 +1,44 @@
+
+
+WEATHER DATA ANALYSIS REPORT
+
+======================================
+
+Total Records : 1000
+
+Total Cities : 100
+
+Average Temperature : 24.62 °C
+
+Maximum Temperature : 38 °C
+
+Minimum Temperature : 12 °C
+
+Average Humidity : 66.0 %
+
+Average Wind Speed : 13.91 km/h
+
+Average Pressure : 1007.87 hPa
+
+Total Rainfall : 6143 mm
+
+======================================
+
+INSIGHTS
+
+1. Dataset contains weather information for 100 cities.
+
+2. Temperature varies between different cities.
+
+3. Rainfall is highest during Rainy and Thunderstorm weather.
+
+4. Humidity increases significantly during rainy days.
+
+5. Sunny weather occurs more frequently than thunderstorms.
+
+6. Wind speed remains moderate in most cities.
+
+7. Pressure remains stable throughout the dataset.
+
+8. Dataset is clean and contains no duplicate records.
+
